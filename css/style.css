@@ -15,3 +15,29 @@
   vertical-align: bottom;
 
 }
+
+#author {
+  margin-top: 0px;
+}
+
+#tim-B-L {
+  margin-left: 0px;
+  margin-bottom: 0px;
+}
+
+#figure-description {
+  margin-top: 0px;
+}
+
+h1 {
+  font-size: 38px;
+  margin-bottom: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.grey-text {
+  color: darkgrey;
+}
