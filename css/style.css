@@ -1,0 +1,17 @@
+#main-header {
+
+  background-color: #4EA0FF;
+  background-image: url(../img/pattern.png);
+  height: 100px;
+  background-size: 30%;
+  line-height: 80px;
+
+}
+
+#main-logo {
+
+  height: 50px;
+  width: auto;
+  vertical-align: bottom;
+
+}
